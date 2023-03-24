@@ -19,9 +19,9 @@
 
     "require": {
         "php": ">=8.0",
-        "xiaohuasheng0x1/data-types": "^1.0",
+        "xiaohuasheng0x1/data-types": "*",
         "guzzlehttp/guzzle": "^7.2",
-        "xiaohuasheng0x1/web3-php": "^1.0",
+        "xiaohuasheng0x1/web3-php": "*",
         "kornrunner/secp256k1": "^0.2",
         "simplito/elliptic-php": "^1.0",
         "ext-json": "*",
